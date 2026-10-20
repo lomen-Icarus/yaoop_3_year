@@ -20,7 +20,7 @@
 | `src/FlightBase.java` | исходный код |
 | `src/Main.java` | исходный код |
 | `report/Otchet_Laba5_Elimov.docx` | отчёт |
-| `report/img/` | блок-схемы и скриншоты, вставленные в отчёт |
+| `report/img/` | блок-схемы (и UML), вставленные в отчёт |
 | `run.bat`, `run.sh` | компиляция и запуск из консоли |
 | `.idea/`, `lab5_objects.iml` | файлы проекта IntelliJ IDEA |
 | `flights.txt` | исходные данные о рейсах (читается и перезаписывается программой) |

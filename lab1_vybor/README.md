@@ -18,6 +18,6 @@
 |---|---|
 | `src/Main.java` | исходный код |
 | `report/Otchet_Laba1_Elimov.docx` | отчёт |
-| `report/img/` | блок-схемы и скриншоты, вставленные в отчёт |
+| `report/img/` | блок-схемы (и UML), вставленные в отчёт |
 | `run.bat`, `run.sh` | компиляция и запуск из консоли |
 | `.idea/`, `lab1_vybor.iml` | файлы проекта IntelliJ IDEA |
