@@ -3,3 +3,5 @@ out/
 .idea/shelf/
 lab5_objects/results.txt
 *.class
+__pycache__/
+*.pyc
