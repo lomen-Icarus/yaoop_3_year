@@ -17,7 +17,8 @@
 | Файл | Назначение |
 |---|---|
 | `src/Main.java` | исходный код |
-| `report/Otchet_Laba1_Elimov.docx` | отчёт |
+| `report/Otchet_Laba1_Elimov.docx` | отчёт (оформлен по требованиям практикума) |
+| `report/build_report.py` | пересборка отчёта: `python lab1_vybor/report/build_report.py` (нужен `pip install python-docx`) |
 | `report/img/` | блок-схемы (и UML), вставленные в отчёт |
 | `run.bat`, `run.sh` | компиляция и запуск из консоли |
 | `.idea/`, `lab1_vybor.iml` | файлы проекта IntelliJ IDEA |
