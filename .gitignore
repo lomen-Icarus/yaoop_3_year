@@ -1,7 +1,7 @@
 out/
 .idea/workspace.xml
 .idea/shelf/
-lab5_objects/results.txt
+Laba5/results.txt
 *.class
 __pycache__/
 *.pyc
