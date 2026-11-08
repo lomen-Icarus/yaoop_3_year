@@ -14,7 +14,8 @@ sys.path.insert(0, str(ROOT / "tools"))
 from report_gost import Report  # noqa: E402
 
 r = Report()
-r.title_page(topic="Структуры выбора", variant=8)
+r.title_page(topic="Структуры выбора", variant=8,
+             group="ВИШ-14-24", student="Елимов М.Д.")
 
 # 1. Постановка задачи
 r.heading("1. Постановка задачи")
